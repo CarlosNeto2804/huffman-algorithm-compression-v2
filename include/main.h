@@ -1,0 +1,10 @@
+#ifndef MAIN
+#define MAIN
+#include "./huffman.h"
+#define CLI_PROGRAM_NAME_POSITION 0
+#define CLI_COMMAND_POSITION 1
+#define CLI_INPUT_FILE_POSITION 2
+#define CLI_OUTPUT_FILE_POSITION 3
+#define CLI_COMMAND_TO_COMPRESS 'c'
+#define CLI_COMMAND_TO_DECOMPRESS 'd'
+#endif
